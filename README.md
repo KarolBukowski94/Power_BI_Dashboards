@@ -10,8 +10,8 @@ Below is an overview of the dashboards included in this repository. Each project
 
 ## Data Jobs Dashboard (V1 – Comprehensive Exploration)
 
-![Data Jobs Dashboard Page 1](Data_Jobs_V1/images/Project1_Dashboard_Page1.png)
-![Data Jobs Dashboard Page 2](Data_Jobs_V1/images/Project1_Dashboard_Page2.png)
+![Data Jobs Dashboard Page 1](Data_Jobs_V1/Images/Project1_Dashboard_Page1.png)
+![Data Jobs Dashboard Page 2](Data_Jobs_V1/Images/Project1_Dashboard_Page2.png)
 
 [**Interactive report (Power BI Service)**](https://app.powerbi.com/view?r=eyJrIjoiNDlhNTBjZDYtODBlZi00NDk1LWE5MTYtYjJjZTBiNzg2OWY2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
