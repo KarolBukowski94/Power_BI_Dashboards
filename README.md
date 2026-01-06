@@ -10,8 +10,8 @@ Below is an overview of the dashboards included in this repository. Each project
 
 ## Data Jobs Dashboard (V1 – Comprehensive Exploration)
 
-![Data Jobs Dashboard](../Power_BI_Dashboards/Data_Jobs_V1/Images/Project1_Dashboard_Page1.png)
-![Data Jobs Dashboard](../Power_BI_Dashboards/Data_Jobs_V1/Images/Project1_Dashboard_Page2.png)
+![Data Jobs Dashboard Page 1](Data_Jobs_V1/images/Project1_Dashboard_Page1.png)
+![Data Jobs Dashboard Page 2](Data_Jobs_V1/images/Project1_Dashboard_Page2.png)
 
 [**Interactive report (Power BI Service)**](https://app.powerbi.com/view?r=eyJrIjoiNDlhNTBjZDYtODBlZi00NDk1LWE5MTYtYjJjZTBiNzg2OWY2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
@@ -29,11 +29,11 @@ The first version of the dashboard provides a two-page exploration of the data j
 - Navigation using buttons and bookmarks  
 - Drill-through interactions  
 
-[**View full Project 1 documentation**](../Power_BI_Dashboards/Data_Jobs_V1/README.md)
+[View full Project 1 documentation](Data_Jobs_V1/README.md)
 
 ## Data Jobs Dashboard 2.0 (V2 – Single-Page Focus)
 
-![Data Jobs Dashboard 2.0](../Power_BI_Dashboards/Data_Jobs_V2/Images/Project2_Dashboard_Overview.png)
+![Data Jobs Dashboard 2.0](Data_Jobs_V2/images/Project2_Dashboard_Overview.png)
 
 [**Interactive report (Power BI Service)**](https://app.powerbi.com/view?r=eyJrIjoiY2Y4MzQ0YzQtZDFiNi00OGI2LTk5M2ItYzNkMjZlOGI2Y2M0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
@@ -49,4 +49,4 @@ Version 2.0 refines the analysis into a single-page report designed for fast ins
 - KPI cards and summary visuals  
 - Optimized slicers and cross-filtering behavior  
 
-[**View full Project 2 documentation**](../Power_BI_Dashboards/Data_Jobs_V2/README.md)
+[View full Project 2 documentation](Data_Jobs_V2/README.md)

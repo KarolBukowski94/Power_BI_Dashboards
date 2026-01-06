@@ -1,6 +1,6 @@
 # Data Jobs Dashboard 2.0
 
-![Data Jobs Dashboard 2.0 png](../Data_Jobs_V2/Images/Project2_Dashboard_Overview.png)
+![Data Jobs Dashboard 2.0](images/Project2_Dashboard_Overview.png)
 
 [**Interactive report (Power BI Service)**](https://app.powerbi.com/view?r=eyJrIjoiY2Y4MzQ0YzQtZDFiNi00OGI2LTk5M2ItYzNkMjZlOGI2Y2M0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 

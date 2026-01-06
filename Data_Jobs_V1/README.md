@@ -29,13 +29,13 @@ The report is organized into **two pages**, combining overview-level insights wi
 
 ### Page 1: Market Overview
 
-![Data Jobs Dashboard Page 1](Images/Project1_Dashboard_Page1.png)
+![Data Jobs Dashboard Page 1](images/Project1_Dashboard_Page1.png)
 
 This page provides a **high-level snapshot** of the data job market. It highlights key KPIs such as **total job postings**, **median salaries**, and the **most common job titles**, allowing users to quickly assess overall market conditions.
 
 ### Page 2: Job Title Drill Through
 
-![Data Jobs Dashboard Page 2](Images/Project1_Dashboard_Page2.png)
+![Data Jobs Dashboard Page 2](images/Project1_Dashboard_Page2.png)
 
 This page enables **deeper analysis** for a selected job title. Users can drill through from the main dashboard to explore **salary distributions**, **remote work prevalence**, **leading job platforms**, and **geographic concentration** for a specific role.
 
